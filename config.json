@@ -2,5 +2,5 @@
 	"ip":"Mak3.aternos.ip",
 	"port": "34672",
 	"name": "afkbot1",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
